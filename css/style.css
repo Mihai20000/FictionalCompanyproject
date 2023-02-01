@@ -191,6 +191,10 @@ footer {
         font-size: 0.7rem;
     }
     
+    nav img {
+        height: 75px;
+        margin-left: 15px;
+    
     /* Footer */
     
     footer {
