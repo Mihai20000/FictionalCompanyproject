@@ -187,9 +187,14 @@ footer {
     }
 
     .nav {
-        padding: 3px;
+        padding: 2px;
         font-size: 0.7rem;
     }
+    
+    /* Footer */
+    
+    footer {
+        font-size: 0.7rem
 }
 
 @media screen and (max-width: 1600px) {
