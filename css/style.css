@@ -187,13 +187,13 @@ footer {
     }
 
     .nav {
-        padding: 2px;
-        font-size: 0.7rem;
+        padding: 1px;
+        font-size: 0.6rem;
     }
     
     nav img {
-        height: 75px;
-        margin-left: 15px;
+        height: 70px;
+        margin-left: 10px;
     
     /* Footer */
     
