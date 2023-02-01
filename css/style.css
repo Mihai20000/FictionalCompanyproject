@@ -194,8 +194,8 @@ footer {
     /* Footer */
     
     footer {
-        font-size: 0.7rem;
-        padding: 15px;
+        font-size: 0.8rem;
+        padding: 20px;
 }
 
 @media screen and (max-width: 1600px) {
