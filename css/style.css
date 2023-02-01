@@ -177,12 +177,12 @@ footer {
     color: whitesmoke;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 450px) {
     
 
     .image-container {
-        height: 320px;
-        background-size: 480px auto;
+        height: 300px;
+        background-size: 450px auto;
         font-size: 0.6rem;
     }
 
