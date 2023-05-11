@@ -1,6 +1,3 @@
-// Enable navigation prompt
-window.onbeforeunload = function() {
-    return true;
-};
-// Remove navigation prompt
-// window.onbeforeunload = null;
+window.onbeforeunload = function(e) {
+      return 'Are you sure you want to leave this page?';
+    };
